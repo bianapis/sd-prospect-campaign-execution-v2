@@ -1,0 +1,23 @@
+{
+  "analysisUpdateActionTaskReference" : "AUATR798317",
+  "analysisUpdateActionTaskRecord" : {},
+  "prospectCampaignProcedureInstanceRecord" : {
+    "prospectCampaignProcedureResult" : {
+      "partyLifecycleManagementProcedureInstanceReference" : "726895",
+      "prospectCampaignProcedureProspectIdentification" : "prospectCampaignProcedureProspectIdentification"
+    },
+    "employeeBusinessUnitReference" : "721714",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "prospectCampaignProcedureSetup" : "prospectCampaignProcedureSetup",
+    "prospectCampaignSchedule" : "prospectCampaignSchedule",
+    "prospectCampaignConsumablesInventory" : {
+      "prospectCampaignConsumableHolding" : "prospectCampaignConsumableHolding"
+    },
+    "prospectCampaignType" : "prospectCampaignType",
+    "prospectCampaignDescription" : "prospectCampaignDescription",
+    "prospectCampaignProcedureVersionNumber" : "prospectCampaignProcedureVersionNumber"
+  },
+  "updateResponseRecord" : {}
+}

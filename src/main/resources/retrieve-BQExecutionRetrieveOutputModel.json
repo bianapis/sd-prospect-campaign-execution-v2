@@ -1,0 +1,44 @@
+{
+  "executionRetrieveActionResponse" : "executionRetrieveActionResponse",
+  "executionRetrieveActionTaskRecord" : {},
+  "prospectCampaignProcedureInstanceRecord" : {
+    "prospectCampaignProcedureResult" : {
+      "partyLifecycleManagementProcedureInstanceReference" : "718845",
+      "prospectCampaignProcedureProspectIdentification" : "prospectCampaignProcedureProspectIdentification"
+    },
+    "employeeBusinessUnitReference" : "732553",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "prospectCampaignProcedureSetup" : "prospectCampaignProcedureSetup",
+    "prospectCampaignSchedule" : "prospectCampaignSchedule",
+    "prospectCampaignConsumablesInventory" : {
+      "prospectCampaignConsumableHolding" : "prospectCampaignConsumableHolding",
+      "prospectCampaignConsumableType" : "prospectCampaignConsumableType"
+    },
+    "prospectCampaignType" : "prospectCampaignType",
+    "prospectCampaignDescription" : "prospectCampaignDescription",
+    "prospectCampaignProcedureVersionNumber" : "prospectCampaignProcedureVersionNumber"
+  },
+  "executionInstanceReport" : {
+    "executionInstanceReportRecord" : {},
+    "executionInstanceReportType" : "executionInstanceReportType",
+    "executionInstanceReportParameters" : "executionInstanceReportParameters",
+    "executionInstanceReport" : {}
+  },
+  "executionInstanceRecord" : {
+    "prospectCampaignProcedureWorkTaskResult" : "prospectCampaignProcedureWorkTaskResult",
+    "prospectCampaignProcedureWorkTaskDescription" : "prospectCampaignProcedureWorkTaskDescription",
+    "prospectCampaignProcedureWorkTaskWorkProducts" : "prospectCampaignProcedureWorkTaskWorkProducts",
+    "prospectCampaignProcedureWorkTaskDateTime" : "09-22-2018",
+    "documentDirectoryEntryInstanceReference" : "756524",
+    "prospectCampaignProcedureWorkTaskType" : "prospectCampaignProcedureWorkTaskType"
+  },
+  "executionInstanceAnalysis" : {
+    "executionInstanceAnalysisParameters" : "executionInstanceAnalysisParameters",
+    "executionInstanceAnalysisReport" : {},
+    "executionInstanceAnalysisReportType" : "executionInstanceAnalysisReportType",
+    "executionInstanceAnalysisRecord" : {}
+  },
+  "executionRetrieveActionTaskReference" : "ERATR715606"
+}

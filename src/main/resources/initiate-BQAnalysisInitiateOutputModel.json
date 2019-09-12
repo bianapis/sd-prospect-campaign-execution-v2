@@ -1,0 +1,24 @@
+{
+  "analysisInstanceReference" : "AIR738962",
+  "analysisInstanceStatus" : "analysisInstanceStatus",
+  "analysisInitiateActionReference" : "AIAR753885",
+  "analysisInitiateActionRecord" : {},
+  "prospectCampaignProcedureInstanceRecord" : {
+    "prospectCampaignProcedureResult" : {
+      "partyLifecycleManagementProcedureInstanceReference" : "736052",
+      "prospectCampaignProcedureProspectIdentification" : "prospectCampaignProcedureProspectIdentification"
+    },
+    "employeeBusinessUnitReference" : "799855",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "prospectCampaignProcedureSetup" : "prospectCampaignProcedureSetup",
+    "prospectCampaignSchedule" : "prospectCampaignSchedule",
+    "prospectCampaignConsumablesInventory" : {
+      "prospectCampaignConsumableHolding" : "prospectCampaignConsumableHolding"
+    },
+    "prospectCampaignType" : "prospectCampaignType",
+    "prospectCampaignDescription" : "prospectCampaignDescription",
+    "prospectCampaignProcedureVersionNumber" : "prospectCampaignProcedureVersionNumber"
+  }
+}

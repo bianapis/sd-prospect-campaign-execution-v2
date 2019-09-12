@@ -1,0 +1,34 @@
+{
+  "prospectCampaignProcedureRetrieveActionTaskRecord" : {},
+  "prospectCampaignProcedureRetrieveActionResponse" : "prospectCampaignProcedureRetrieveActionResponse",
+  "prospectCampaignProcedureInstanceReportRecord" : {
+    "prospectCampaignProcedureInstanceReport" : {},
+    "prospectCampaignProcedureInstanceReportData" : "prospectCampaignProcedureInstanceReportData",
+    "prospectCampaignProcedureInstanceReportType" : "prospectCampaignProcedureInstanceReportType"
+  },
+  "prospectCampaignProcedureRetrieveActionTaskReference" : "PCPRATR728871",
+  "prospectCampaignProcedureInstanceRecord" : {
+    "prospectCampaignProcedureResult" : {
+      "partyLifecycleManagementProcedureInstanceReference" : "790594",
+      "prospectCampaignProcedureProspectIdentification" : "prospectCampaignProcedureProspectIdentification"
+    },
+    "employeeBusinessUnitReference" : "761510",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "prospectCampaignProcedureSetup" : "prospectCampaignProcedureSetup",
+    "prospectCampaignSchedule" : "prospectCampaignSchedule",
+    "prospectCampaignConsumablesInventory" : {
+      "prospectCampaignConsumableHolding" : "prospectCampaignConsumableHolding",
+      "prospectCampaignConsumableType" : "prospectCampaignConsumableType"
+    },
+    "prospectCampaignType" : "prospectCampaignType",
+    "prospectCampaignDescription" : "prospectCampaignDescription",
+    "prospectCampaignProcedureVersionNumber" : "prospectCampaignProcedureVersionNumber"
+  },
+  "prospectCampaignProcedureInstanceAnalysis" : {
+    "prospectCampaignProcedureInstanceAnalysisReport" : {},
+    "prospectCampaignProcedureInstanceAnalysisData" : "prospectCampaignProcedureInstanceAnalysisData",
+    "prospectCampaignProcedureInstanceAnalysisReportType" : "prospectCampaignProcedureInstanceAnalysisReportType"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "candidateSelectionUpdateActionTaskReference" : "CSUATR716798",
+  "prospectCampaignProcedureInstanceRecord" : {
+    "employeeBusinessUnitReference" : "739963",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "prospectCampaignProcedureSetup" : "prospectCampaignProcedureSetup",
+    "prospectCampaignSchedule" : "prospectCampaignSchedule",
+    "prospectCampaignType" : "prospectCampaignType",
+    "prospectCampaignDescription" : "prospectCampaignDescription",
+    "prospectCampaignProcedureVersionNumber" : "prospectCampaignProcedureVersionNumber"
+  },
+  "candidateSelectionUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "candidateSelectionInstanceRecord" : {
+    "prospectCampaignCandidateEmployeeBusinessUnitReference" : "758160",
+    "prospectCampaignSelectionCriteria" : "prospectCampaignSelectionCriteria",
+    "prospectCampaignCandidateReference" : "726001"
+  }
+}

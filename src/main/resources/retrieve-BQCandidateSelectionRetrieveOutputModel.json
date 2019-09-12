@@ -1,0 +1,33 @@
+{
+  "candidateSelectionRetrieveActionTaskRecord" : {},
+  "prospectCampaignProcedureInstanceRecord" : {
+    "employeeBusinessUnitReference" : "720127",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "prospectCampaignProcedureSetup" : "prospectCampaignProcedureSetup",
+    "prospectCampaignSchedule" : "prospectCampaignSchedule",
+    "prospectCampaignType" : "prospectCampaignType",
+    "prospectCampaignDescription" : "prospectCampaignDescription",
+    "prospectCampaignProcedureVersionNumber" : "prospectCampaignProcedureVersionNumber"
+  },
+  "candidateSelectionInstanceAnalysis" : {
+    "candidateSelectionInstanceAnalysisParameters" : "candidateSelectionInstanceAnalysisParameters",
+    "candidateSelectionInstanceAnalysisReport" : {},
+    "candidateSelectionInstanceAnalysisRecord" : {},
+    "candidateSelectionInstanceAnalysisReportType" : "candidateSelectionInstanceAnalysisReportType"
+  },
+  "candidateSelectionRetrieveActionResponse" : "candidateSelectionRetrieveActionResponse",
+  "candidateSelectionInstanceRecord" : {
+    "prospectCampaignCandidateEmployeeBusinessUnitReference" : "773554",
+    "prospectCampaignSelectionCriteria" : "prospectCampaignSelectionCriteria",
+    "prospectCampaignCandidateReference" : "787780"
+  },
+  "candidateSelectionRetrieveActionTaskReference" : "CSRATR703178",
+  "candidateSelectionInstanceReport" : {
+    "candidateSelectionInstanceReportRecord" : {},
+    "candidateSelectionInstanceReportType" : "candidateSelectionInstanceReportType",
+    "candidateSelectionInstanceReportParameters" : "candidateSelectionInstanceReportParameters",
+    "candidateSelectionInstanceReport" : {}
+  }
+}

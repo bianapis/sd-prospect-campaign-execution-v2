@@ -1,0 +1,31 @@
+{
+  "executionUpdateActionTaskRecord" : {},
+  "prospectCampaignProcedureInstanceRecord" : {
+    "prospectCampaignProcedureResult" : {
+      "partyLifecycleManagementProcedureInstanceReference" : "749100",
+      "prospectCampaignProcedureProspectIdentification" : "prospectCampaignProcedureProspectIdentification"
+    },
+    "employeeBusinessUnitReference" : "787737",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "prospectCampaignProcedureSetup" : "prospectCampaignProcedureSetup",
+    "prospectCampaignSchedule" : "prospectCampaignSchedule",
+    "prospectCampaignConsumablesInventory" : {
+      "prospectCampaignConsumableHolding" : "prospectCampaignConsumableHolding"
+    },
+    "prospectCampaignType" : "prospectCampaignType",
+    "prospectCampaignDescription" : "prospectCampaignDescription",
+    "prospectCampaignProcedureVersionNumber" : "prospectCampaignProcedureVersionNumber"
+  },
+  "executionUpdateActionTaskReference" : "EUATR773986",
+  "updateResponseRecord" : {},
+  "executionInstanceRecord" : {
+    "prospectCampaignProcedureWorkTaskResult" : "prospectCampaignProcedureWorkTaskResult",
+    "prospectCampaignProcedureWorkTaskDescription" : "prospectCampaignProcedureWorkTaskDescription",
+    "prospectCampaignProcedureWorkTaskWorkProducts" : "prospectCampaignProcedureWorkTaskWorkProducts",
+    "prospectCampaignProcedureWorkTaskDateTime" : "09-22-2018",
+    "documentDirectoryEntryInstanceReference" : "789802",
+    "prospectCampaignProcedureWorkTaskType" : "prospectCampaignProcedureWorkTaskType"
+  }
+}

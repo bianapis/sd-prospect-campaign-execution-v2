@@ -1,0 +1,14 @@
+{
+  "executionRequestRecordReference" : "ERRR781643",
+  "executionRequestActionTaskRecord" : {},
+  "executionInstanceRecord" : {
+    "prospectCampaignProcedureWorkTaskResult" : "prospectCampaignProcedureWorkTaskResult",
+    "prospectCampaignProcedureWorkTaskDescription" : "prospectCampaignProcedureWorkTaskDescription",
+    "prospectCampaignProcedureWorkTaskWorkProducts" : "prospectCampaignProcedureWorkTaskWorkProducts",
+    "prospectCampaignProcedureWorkTaskDateTime" : "09-22-2018",
+    "documentDirectoryEntryInstanceReference" : "793073",
+    "prospectCampaignProcedureWorkTaskType" : "prospectCampaignProcedureWorkTaskType"
+  },
+  "executionRequestActionTaskReference" : "ERATR711184",
+  "requestResponseRecord" : {}
+}
